@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://armenia-voditelskie-prava.github.io/armenia-voditelskoe-ydostoverenie/sitemap.xml
+Host: https://armenia-voditelskie-prava.github.io/armenia-voditelskoe-ydostoverenie/
